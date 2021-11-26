@@ -19,8 +19,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Deployed Application 
 
-[Shop Shop](https://redux-shop-anamika.herokuapp.com/)<br />
-[![Employee-tracker](https://img.youtube.com/vi/0lR1SybhWXs/0.jpg)](https://www.youtube.com/watch?v=0lR1SybhWXs)<br />
+[Redux Shop](https://redux-shop-anamika.herokuapp.com/)<br />
+[![Redux Shop](https://img.youtube.com/vi/0lR1SybhWXs/0.jpg)](https://www.youtube.com/watch?v=0lR1SybhWXs)<br />
 
 ## User Story
 
